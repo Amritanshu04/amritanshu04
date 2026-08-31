@@ -3,7 +3,7 @@
 <h3 align="center">💙 Passionate about learning new Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lf1s2xxap6ls33zn4fhmy7tle5iot4eu95dhez3w&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 A CSE (DevOps) Engineer passionate about **DevOps, Cloud Computing, and Automation**
 
 - 📫 How to reach me **Amritanshuranjan04@gmail.com**
 
